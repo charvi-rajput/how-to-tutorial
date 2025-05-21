@@ -65,6 +65,8 @@ theme:
 pip install mkdocs-material
 ```
 
+-----
+
 ## **Step 4: Build the Site**
 Generate the static files using:
 ```bash
