@@ -1,0 +1,19 @@
+site_name: How-to-Guides
+
+theme: 
+  name: material
+  features: 
+    - content.code.copy
+
+markdown_extensions:
+  - codehilite
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+
+
+nav:
+  - Host MkDocs project using GitHub Pages : index.md
+
+
