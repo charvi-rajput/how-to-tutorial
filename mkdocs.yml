@@ -4,6 +4,7 @@ theme:
   name: material
   features: 
     - content.code.copy
+  favicon: img/favicon.ico
 
 markdown_extensions:
   - codehilite
@@ -14,6 +15,7 @@ markdown_extensions:
 
 
 nav:
-  - Host MkDocs project using GitHub Pages : index.md
+  - Host MkDocs project using GitHub Pages: index.md
+  - Change the Favicon icon in MkDocs: fav.md
 
 

@@ -74,6 +74,8 @@ mkdocs build
 ```
 This creates a `site/` directory containing the final HTML that looks like this:
 
+<img src="img/ste.png" alt="Site folder structure" height="300" width="300">
+
 
 -----
 
@@ -118,6 +120,6 @@ https://charvi-rajput.github.io/my-docs-site/
 ## **Resources**
 - [MkDocs Documentation](https://www.mkdocs.org)  
 
-- [Material for MkDocs](https://pages.github.com)  
+- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
-- [GitHub Pages](https://squidfunk.github.io/mkdocs-material/)
+- [GitHub Pages](https://pages.github.com)  
